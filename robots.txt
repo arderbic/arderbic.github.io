@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arderbic.github.io/sitemap.html.gz
+Sitemap: https://arderbic.github.io/app/sitemap.html.gz
+Sitemap: https://arderbic.github.io/assets/sitemap.html.gz
+Sitemap: https://arderbic.github.io/css/sitemap.html.gz
+Sitemap: https://arderbic.github.io/data/sitemap.html.gz
+Sitemap: https://arderbic.github.io/includes/sitemap.html.gz
+Sitemap: https://arderbic.github.io/item/sitemap.html.gz
+Sitemap: https://arderbic.github.io/src/sitemap.html.gz
